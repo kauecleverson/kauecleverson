@@ -2,7 +2,7 @@
 
 Sou aluno do Colégio Victorino e desenvolvedor, sempre buscando aprender e compartilhar conhecimento.
 
-![Kaue GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauecleverson&show_icons=true&theme=dark)
+![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=kauecleverson&show_icons=true&theme=dark)
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauecleverson&layout=compact)
 
