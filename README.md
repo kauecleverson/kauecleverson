@@ -1,10 +1,6 @@
 ## Olá, eu sou Kauê CLeverson 🖐
 
-Sou aluno do Colégio Victorino e desenvolvedor, sempre buscando aprender e compartilhar conhecimento.
-
-![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=kauecleverson&show_icons=true&theme=dark)
-)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauecleverson&layout=compact)
+Fui aluno do Colégio Victorino e pretendo seguir carreira como desenvolvedor Back-end, sempre buscando aprender e compartilhar conhecimento.
 
 ---
 
