@@ -29,7 +29,10 @@ Gosto de esportes <br>
 Pratico alguns como: Surf e Vôlei
 
 ---
+| Cursos   | Certificados  |
+| -------- | --------------|
 
+---
 **🤝 Contribuições:**
 
 Se você quiser contribuir para algum dos meus projetos, por favor, sinta-se à vontade para enviar um pull request. Estou sempre aberto a novas ideias e melhorias!
